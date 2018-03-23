@@ -1,0 +1,4 @@
+#Mon Jan 15 23:04:32 IST 2018
+base.0=E\:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=E\:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

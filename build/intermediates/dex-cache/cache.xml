@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Inventory code\Android studio code\InventoryProject\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fde22d8d2ef6363324a3d79a1dd16c8645c25564">
+        <dex dex="E:\Inventory code\Android studio code\InventoryProject\build\intermediates\pre-dexed\debug\android-support-v4_35a5df0e85eb2dbf22a627a9fcd0271e3ca2cd07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Inventory code\Android studio code\android-support-v7-appcompat\build\intermediates\bundles\default\libs\android-support-v7-appcompat.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d572fc4156ca78373e372f746245332eaae6b102">
+        <dex dex="E:\Inventory code\Android studio code\InventoryProject\build\intermediates\pre-dexed\debug\android-support-v7-appcompat_35a630a1d38574366b418f02ae553177d19d6d12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Inventory code\Android studio code\ShapeImageLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f9cad830334cc158533a1570d5d7f9a25759832">
+        <dex dex="E:\Inventory code\Android studio code\InventoryProject\build\intermediates\pre-dexed\debug\classes_05b2620f942d19fc4ec2264c9ac89617625bfc2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Inventory code\Android studio code\android-support-v7-appcompat\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a90524b4b573a90b2ccfde672cf94fa5b3cb3f56">
+        <dex dex="E:\Inventory code\Android studio code\InventoryProject\build\intermediates\pre-dexed\debug\classes_d5bb46f3dc43a28a1db659640611a0fc5c175214.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Inventory code\Android studio code\InventoryProject\libs\jxl-2.6.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5447936214d5116a4ad8d90764ed72c2974b2dc">
+        <dex dex="E:\Inventory code\Android studio code\InventoryProject\build\intermediates\pre-dexed\debug\jxl-2.6.10_f471e7e9011f8de30e5864be0bb5468e3538d79d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Inventory code\Android studio code\google-play-services_lib\build\intermediates\bundles\default\libs\google-play-services.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f49cf6c8a54e61c0bb3f25652ed3a4d4f0e19ad0">
+        <dex dex="E:\Inventory code\Android studio code\InventoryProject\build\intermediates\pre-dexed\debug\google-play-services_97046ef533f6281164e65d3f279a698796048902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Inventory code\Android studio code\ShapeImageLibrary\build\intermediates\bundles\default\libs\kxml2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abb3f8016f8e1bbdaf4308b048fbe6d49ca51d69">
+        <dex dex="E:\Inventory code\Android studio code\InventoryProject\build\intermediates\pre-dexed\debug\kxml2_21749e1964917193813f250fd1fc1ae62182e030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Inventory code\Android studio code\google-play-services_lib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ae08f22981443ea3c7a1b2ad2a2efb18be1ef5">
+        <dex dex="E:\Inventory code\Android studio code\InventoryProject\build\intermediates\pre-dexed\debug\classes_f5b6a2efa16f4596bdbadce2e0044d9f0ed4e253.jar" />
+    </item>
+
+</items>

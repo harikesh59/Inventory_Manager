@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_diamond.svg",
+        "source": "E:\\Inventory code\\Android studio code\\ShapeImageLibrary\\build\\intermediates\\bundles\\default\\res\\raw\\imgview_diamond.svg"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_pentagon.svg",
+        "source": "E:\\Inventory code\\Android studio code\\ShapeImageLibrary\\build\\intermediates\\bundles\\default\\res\\raw\\imgview_pentagon.svg"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_hexagon.svg",
+        "source": "E:\\Inventory code\\Android studio code\\ShapeImageLibrary\\build\\intermediates\\bundles\\default\\res\\raw\\imgview_hexagon.svg"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_star.svg",
+        "source": "E:\\Inventory code\\Android studio code\\ShapeImageLibrary\\build\\intermediates\\bundles\\default\\res\\raw\\imgview_star.svg"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_heart.svg",
+        "source": "E:\\Inventory code\\Android studio code\\ShapeImageLibrary\\build\\intermediates\\bundles\\default\\res\\raw\\imgview_heart.svg"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_octogon.svg",
+        "source": "E:\\Inventory code\\Android studio code\\ShapeImageLibrary\\build\\intermediates\\bundles\\default\\res\\raw\\imgview_octogon.svg"
+    }
+]

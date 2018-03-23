@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
+        "source": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-tvdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\default\\res\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    }
+]

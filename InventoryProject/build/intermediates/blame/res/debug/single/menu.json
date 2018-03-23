@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\menu\\add_screen_menu.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\menu\\add_screen_menu.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\menu\\report_screen_menu.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\menu\\report_screen_menu.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\menu\\delete.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\menu\\delete.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\menu\\view_screen_menu.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\menu\\view_screen_menu.xml"
+    }
+]

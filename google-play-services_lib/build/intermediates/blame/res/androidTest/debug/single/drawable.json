@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\cast_ic_notification_connecting.xml"
+    }
+]

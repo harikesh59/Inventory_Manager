@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\search_activity.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\search_activity.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_activity.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\notification_activity.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\home_activity.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\home_activity.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\add_product.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\add_product.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\category_details.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\category_details.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\setting_item.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\category_list_report.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\category_list_report.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\banner_adview.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\banner_adview.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\item_details_activity.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\item_details_activity.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\list_layout.xml",
+        "source": "E:\\Inventory code\\Android studio code\\InventoryProject\\res\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\layout\\abc_list_menu_item_icon.xml"
+    }
+]

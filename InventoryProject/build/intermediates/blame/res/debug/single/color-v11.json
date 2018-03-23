@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\Inventory code\\Android studio code\\android-support-v7-appcompat\\build\\intermediates\\bundles\\default\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

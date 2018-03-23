@@ -1,0 +1,16 @@
+#Mon Jan 15 23:04:23 IST 2018
+renamed.4=classes5.dex
+renamed.3=classes3.dex
+renamed.2=classes.dex
+renamed.1=classes2.dex
+base.4=E\:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\8\\kxml2_21749e1964917193813f250fd1fc1ae62182e030
+renamed.0=classes4.dex
+base.3=E\:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\8\\android-support-v7-appcompat_35a630a1d38574366b418f02ae553177d19d6d12
+base.2=E\:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v4_35a5df0e85eb2dbf22a627a9fcd0271e3ca2cd07
+base.1=E\:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\jxl-2.6.10_f471e7e9011f8de30e5864be0bb5468e3538d79d
+base.0=E\:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\8\\google-play-services_97046ef533f6281164e65d3f279a698796048902
+file.4=E\:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\8\\kxml2_21749e1964917193813f250fd1fc1ae62182e030\\classes.dex
+file.3=E\:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\8\\android-support-v7-appcompat_35a630a1d38574366b418f02ae553177d19d6d12\\classes.dex
+file.2=E\:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v4_35a5df0e85eb2dbf22a627a9fcd0271e3ca2cd07\\classes.dex
+file.1=E\:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\jxl-2.6.10_f471e7e9011f8de30e5864be0bb5468e3538d79d\\classes.dex
+file.0=E\:\\Inventory code\\Android studio code\\InventoryProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\8\\google-play-services_97046ef533f6281164e65d3f279a698796048902\\classes.dex

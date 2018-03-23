@@ -1,0 +1,1423 @@
+[
+    {
+        "outputFile": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 60,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 82,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 82,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 72,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 72,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 82,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 82,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 82,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 82,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 488,
+                    "endColumn": 72,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 72,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 72,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 72,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 634,
+                    "endColumn": 73,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 73,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 72,
+                    "endOffset": 776
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 72,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 781,
+                    "endColumn": 83,
+                    "endOffset": 860
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 83,
+                        "endOffset": 860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 865,
+                    "endColumn": 80,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 865,
+                        "endColumn": 80,
+                        "endOffset": 941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endColumn": 70,
+                    "endOffset": 1012
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 946,
+                        "endColumn": 70,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1017,
+                    "endColumn": 71,
+                    "endOffset": 1084
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1017,
+                        "endColumn": 71,
+                        "endOffset": 1084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1089,
+                    "endColumn": 76,
+                    "endOffset": 1161
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1089,
+                        "endColumn": 76,
+                        "endOffset": 1161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1166,
+                    "endColumn": 65,
+                    "endOffset": 1227
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1166,
+                        "endColumn": 65,
+                        "endOffset": 1227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1232,
+                    "endColumn": 84,
+                    "endOffset": 1312
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1232,
+                        "endColumn": 84,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1317,
+                    "endColumn": 73,
+                    "endOffset": 1386
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 73,
+                        "endOffset": 1386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1391,
+                    "endColumn": 69,
+                    "endOffset": 1456
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1391,
+                        "endColumn": 69,
+                        "endOffset": 1456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1461,
+                    "endColumn": 70,
+                    "endOffset": 1527
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1461,
+                        "endColumn": 70,
+                        "endOffset": 1527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1532,
+                    "endColumn": 66,
+                    "endOffset": 1594
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1532,
+                        "endColumn": 66,
+                        "endOffset": 1594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1599,
+                    "endColumn": 67,
+                    "endOffset": 1662
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1599,
+                        "endColumn": 67,
+                        "endOffset": 1662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1667,
+                    "endColumn": 58,
+                    "endOffset": 1721
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1667,
+                        "endColumn": 58,
+                        "endOffset": 1721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1726,
+                    "endColumn": 56,
+                    "endOffset": 1778
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1726,
+                        "endColumn": 56,
+                        "endOffset": 1778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5622,
+                    "endColumn": 49,
+                    "endOffset": 5667
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 5622,
+                        "endColumn": 49,
+                        "endOffset": 5667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5672,
+                    "endColumn": 66,
+                    "endOffset": 5734
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 5672,
+                        "endColumn": 66,
+                        "endOffset": 5734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5739,
+                    "endColumn": 41,
+                    "endOffset": 5776
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 5739,
+                        "endColumn": 41,
+                        "endOffset": 5776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5781,
+                    "endColumn": 91,
+                    "endOffset": 5868
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 5781,
+                        "endColumn": 91,
+                        "endOffset": 5868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5873,
+                    "endColumn": 87,
+                    "endOffset": 5956
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5873,
+                        "endColumn": 87,
+                        "endOffset": 5956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5961,
+                    "endColumn": 106,
+                    "endOffset": 6063
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5961,
+                        "endColumn": 106,
+                        "endOffset": 6063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 6068,
+                    "endColumn": 108,
+                    "endOffset": 6172
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 6068,
+                        "endColumn": 108,
+                        "endOffset": 6172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 6177,
+                    "endColumn": 67,
+                    "endOffset": 6240
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 6177,
+                        "endColumn": 67,
+                        "endOffset": 6240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 6245,
+                    "endColumn": 156,
+                    "endOffset": 6397
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 6245,
+                        "endColumn": 156,
+                        "endOffset": 6397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 6402,
+                    "endColumn": 144,
+                    "endOffset": 6542
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 6402,
+                        "endColumn": 144,
+                        "endOffset": 6542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 6547,
+                    "endColumn": 108,
+                    "endOffset": 6651
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 6547,
+                        "endColumn": 108,
+                        "endOffset": 6651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 6656,
+                    "endColumn": 231,
+                    "endOffset": 6883
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 6656,
+                        "endColumn": 231,
+                        "endOffset": 6883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6888,
+                    "endColumn": 125,
+                    "endOffset": 7009
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 6888,
+                        "endColumn": 125,
+                        "endOffset": 7009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 7014,
+                    "endColumn": 180,
+                    "endOffset": 7190
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 7014,
+                        "endColumn": 180,
+                        "endOffset": 7190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 7195,
+                    "endColumn": 124,
+                    "endOffset": 7315
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 7195,
+                        "endColumn": 124,
+                        "endOffset": 7315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 7320,
+                    "endColumn": 138,
+                    "endOffset": 7454
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 7320,
+                        "endColumn": 138,
+                        "endOffset": 7454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 7459,
+                    "endColumn": 123,
+                    "endOffset": 7578
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 7459,
+                        "endColumn": 123,
+                        "endOffset": 7578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 7583,
+                    "endColumn": 212,
+                    "endOffset": 7791
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 7583,
+                        "endColumn": 212,
+                        "endOffset": 7791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 7796,
+                    "endColumn": 214,
+                    "endOffset": 8006
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 7796,
+                        "endColumn": 214,
+                        "endOffset": 8006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 8011,
+                    "endColumn": 122,
+                    "endOffset": 8129
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 8011,
+                        "endColumn": 122,
+                        "endOffset": 8129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 8134,
+                    "endColumn": 164,
+                    "endOffset": 8294
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 8134,
+                        "endColumn": 164,
+                        "endOffset": 8294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 8299,
+                    "endColumn": 93,
+                    "endOffset": 8388
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 8299,
+                        "endColumn": 93,
+                        "endOffset": 8388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 8393,
+                    "endColumn": 136,
+                    "endOffset": 8525
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 8393,
+                        "endColumn": 136,
+                        "endOffset": 8525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 8530,
+                    "endColumn": 140,
+                    "endOffset": 8666
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 8530,
+                        "endColumn": 140,
+                        "endOffset": 8666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 8671,
+                    "endColumn": 89,
+                    "endOffset": 8756
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 8671,
+                        "endColumn": 89,
+                        "endOffset": 8756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 8761,
+                    "endColumn": 147,
+                    "endOffset": 8904
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 8761,
+                        "endColumn": 147,
+                        "endOffset": 8904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 8909,
+                    "endColumn": 102,
+                    "endOffset": 9007
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 8909,
+                        "endColumn": 102,
+                        "endOffset": 9007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 9012,
+                    "endColumn": 150,
+                    "endOffset": 9158
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 9012,
+                        "endColumn": 150,
+                        "endOffset": 9158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 9163,
+                    "endColumn": 91,
+                    "endOffset": 9250
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 9163,
+                        "endColumn": 91,
+                        "endOffset": 9250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 9255,
+                    "endColumn": 110,
+                    "endOffset": 9361
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 9255,
+                        "endColumn": 110,
+                        "endOffset": 9361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 9366,
+                    "endColumn": 218,
+                    "endOffset": 9580
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 9366,
+                        "endColumn": 218,
+                        "endOffset": 9580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 9585,
+                    "endColumn": 94,
+                    "endOffset": 9675
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 9585,
+                        "endColumn": 94,
+                        "endOffset": 9675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 9680,
+                    "endColumn": 104,
+                    "endOffset": 9780
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 9680,
+                        "endColumn": 104,
+                        "endOffset": 9780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 9785,
+                    "endColumn": 180,
+                    "endOffset": 9961
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 9785,
+                        "endColumn": 180,
+                        "endOffset": 9961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 9966,
+                    "endColumn": 124,
+                    "endOffset": 10086
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 9966,
+                        "endColumn": 124,
+                        "endOffset": 10086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 10091,
+                    "endColumn": 174,
+                    "endOffset": 10261
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 10091,
+                        "endColumn": 174,
+                        "endOffset": 10261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 10266,
+                    "endColumn": 104,
+                    "endOffset": 10366
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 10266,
+                        "endColumn": 104,
+                        "endOffset": 10366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 10371,
+                    "endColumn": 62,
+                    "endOffset": 10429
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 10371,
+                        "endColumn": 62,
+                        "endOffset": 10429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 10434,
+                    "endColumn": 61,
+                    "endOffset": 10491
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 10434,
+                        "endColumn": 61,
+                        "endOffset": 10491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 10496,
+                    "endColumn": 78,
+                    "endOffset": 10570
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 10496,
+                        "endColumn": 78,
+                        "endOffset": 10570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 10575,
+                    "endColumn": 88,
+                    "endOffset": 10659
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 10575,
+                        "endColumn": 88,
+                        "endOffset": 10659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 10664,
+                    "endColumn": 71,
+                    "endOffset": 10731
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 10664,
+                        "endColumn": 71,
+                        "endOffset": 10731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 10736,
+                    "endColumn": 43,
+                    "endOffset": 10775
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 10736,
+                        "endColumn": 43,
+                        "endOffset": 10775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 10780,
+                    "endColumn": 95,
+                    "endOffset": 10871
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 10780,
+                        "endColumn": 95,
+                        "endOffset": 10871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 10876,
+                    "endColumn": 58,
+                    "endOffset": 10930
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 10876,
+                        "endColumn": 58,
+                        "endOffset": 10930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 10935,
+                    "endColumn": 189,
+                    "endOffset": 11120
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 10935,
+                        "endColumn": 189,
+                        "endOffset": 11120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 11125,
+                    "endLine": 129,
+                    "endColumn": 10,
+                    "endOffset": 11544
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 11125,
+                        "endLine": 129,
+                        "endColumn": 10,
+                        "endOffset": 11544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 11549,
+                    "endLine": 137,
+                    "endColumn": 12,
+                    "endOffset": 12073
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 11549,
+                        "endLine": 137,
+                        "endColumn": 12,
+                        "endOffset": 12073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 12078,
+                    "endLine": 140,
+                    "endColumn": 12,
+                    "endOffset": 12257
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 12078,
+                        "endLine": 140,
+                        "endColumn": 12,
+                        "endOffset": 12257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 12262,
+                    "endLine": 148,
+                    "endColumn": 12,
+                    "endOffset": 12786
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 12262,
+                        "endLine": 148,
+                        "endColumn": 12,
+                        "endOffset": 12786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 12791,
+                    "endLine": 161,
+                    "endColumn": 12,
+                    "endOffset": 13784
+                },
+                "from": {
+                    "file": "E:\\Inventory code\\Android studio code\\google-play-services_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 12791,
+                        "endLine": 161,
+                        "endColumn": 12,
+                        "endOffset": 13784
+                    }
+                }
+            }
+        ]
+    }
+]
